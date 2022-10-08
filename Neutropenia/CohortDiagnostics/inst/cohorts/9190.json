@@ -1,0 +1,709 @@
+{
+  "ExpressionLimit": {"Type": "All"},
+  "CollapseSettings": {
+    "CollapseType": "ERA",
+    "EraPad": 365
+  },
+  "CensorWindow": {},
+  "ConceptSets": [
+    {
+      "expression": {"items": [
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 36715585,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "721303001",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Refractory neutropenia",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 320073,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "165517008",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Neutropenia",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 42872951,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "450946009",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Refractory neutropenia",
+            "DOMAIN_ID": "Observation",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Morph Abnormality",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 435224,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "84828003",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Leukopenia",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 440689,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "17182001",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Agranulocytosis",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 45766061,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "703148008",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Periodontitis associated with chronic familial neutropenia",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4119158,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "303011007",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Neutropenic disorder",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        }
+      ]},
+      "name": "Neutropenia, Agranulocytosis or Leukopenia",
+      "id": 0
+    },
+    {
+      "expression": {"items": [
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 37393856,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "1022551000000104",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Neutrophil count",
+            "DOMAIN_ID": "Measurement",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Observable Entity",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4148615,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "30630007",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Neutrophil count",
+            "DOMAIN_ID": "Measurement",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Procedure",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 3017732,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "26499-4",
+            "VOCABULARY_ID": "LOINC",
+            "CONCEPT_NAME": "Neutrophils [#/volume] in Blood",
+            "DOMAIN_ID": "Measurement",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Lab Test",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 3013650,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "751-8",
+            "VOCABULARY_ID": "LOINC",
+            "CONCEPT_NAME": "Neutrophils [#/volume] in Blood by Automated count",
+            "DOMAIN_ID": "Measurement",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Lab Test",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 3017501,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "753-4",
+            "VOCABULARY_ID": "LOINC",
+            "CONCEPT_NAME": "Neutrophils [#/volume] in Blood by Manual count",
+            "DOMAIN_ID": "Measurement",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Lab Test",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        }
+      ]},
+      "name": "Neutrophil Absolute Count",
+      "id": 2
+    },
+    {
+      "expression": {"items": [{
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 4306106,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "165518003",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_NAME": "Neutrophilia",
+          "DOMAIN_ID": "Condition",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Clinical Finding",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      }]},
+      "name": "Neutrophilia",
+      "id": 4
+    }
+  ],
+  "EndStrategy": {"DateOffset": {
+    "DateField": "StartDate",
+    "Offset": 21
+  }},
+  "cdmVersionRange": ">=5.0.0",
+  "CensoringCriteria": [
+    {"Measurement": {
+      "MeasurementTypeExclude": false,
+      "CodesetId": 2,
+      "ValueAsNumber": {
+        "Op": "bt",
+        "Extent": 8.25,
+        "Value": 4
+      },
+      "Unit": [
+        {
+          "INVALID_REASON_CAPTION": "Unknown",
+          "CONCEPT_ID": 9444,
+          "STANDARD_CONCEPT": null,
+          "CONCEPT_CODE": "10*9/L",
+          "VOCABULARY_ID": "UCUM",
+          "CONCEPT_NAME": "billion per liter",
+          "DOMAIN_ID": "Unit",
+          "STANDARD_CONCEPT_CAPTION": "Unknown",
+          "CONCEPT_CLASS_ID": null,
+          "INVALID_REASON": null
+        },
+        {
+          "INVALID_REASON_CAPTION": "Unknown",
+          "CONCEPT_ID": 8848,
+          "STANDARD_CONCEPT": null,
+          "CONCEPT_CODE": "10*3/uL",
+          "VOCABULARY_ID": "UCUM",
+          "CONCEPT_NAME": "thousand per microliter",
+          "DOMAIN_ID": "Unit",
+          "STANDARD_CONCEPT_CAPTION": "Unknown",
+          "CONCEPT_CLASS_ID": null,
+          "INVALID_REASON": null
+        },
+        {
+          "INVALID_REASON_CAPTION": "Unknown",
+          "CONCEPT_ID": 8816,
+          "STANDARD_CONCEPT": null,
+          "CONCEPT_CODE": "10*6/mL",
+          "VOCABULARY_ID": "UCUM",
+          "CONCEPT_NAME": "million per milliliter",
+          "DOMAIN_ID": "Unit",
+          "STANDARD_CONCEPT_CAPTION": "Unknown",
+          "CONCEPT_CLASS_ID": null,
+          "INVALID_REASON": null
+        },
+        {
+          "INVALID_REASON_CAPTION": "Unknown",
+          "CONCEPT_ID": 8961,
+          "STANDARD_CONCEPT": null,
+          "CONCEPT_CODE": "10*3/mm3",
+          "VOCABULARY_ID": "UCUM",
+          "CONCEPT_NAME": "thousand per cubic millimeter",
+          "DOMAIN_ID": "Unit",
+          "STANDARD_CONCEPT_CAPTION": "Unknown",
+          "CONCEPT_CLASS_ID": null,
+          "INVALID_REASON": null
+        },
+        {
+          "INVALID_REASON_CAPTION": "Unknown",
+          "CONCEPT_ID": 44777588,
+          "STANDARD_CONCEPT": null,
+          "CONCEPT_CODE": "10*9.{cellls}/L",
+          "VOCABULARY_ID": "UCUM",
+          "CONCEPT_NAME": "billion cells per liter",
+          "DOMAIN_ID": "Unit",
+          "STANDARD_CONCEPT_CAPTION": "Unknown",
+          "CONCEPT_CLASS_ID": null,
+          "INVALID_REASON": null
+        }
+      ]
+    }},
+    {"Measurement": {
+      "MeasurementTypeExclude": false,
+      "CodesetId": 2,
+      "ValueAsNumber": {
+        "Op": "bt",
+        "Extent": 8250,
+        "Value": 4000
+      },
+      "Unit": [
+        {
+          "INVALID_REASON_CAPTION": "Unknown",
+          "CONCEPT_ID": 8784,
+          "STANDARD_CONCEPT": null,
+          "CONCEPT_CODE": "{cells}/uL",
+          "VOCABULARY_ID": "UCUM",
+          "CONCEPT_NAME": "cells per microliter",
+          "DOMAIN_ID": "Unit",
+          "STANDARD_CONCEPT_CAPTION": "Unknown",
+          "CONCEPT_CLASS_ID": null,
+          "INVALID_REASON": null
+        },
+        {
+          "INVALID_REASON_CAPTION": "Unknown",
+          "CONCEPT_ID": 8647,
+          "STANDARD_CONCEPT": null,
+          "CONCEPT_CODE": "/uL",
+          "VOCABULARY_ID": "UCUM",
+          "CONCEPT_NAME": "per microliter",
+          "DOMAIN_ID": "Unit",
+          "STANDARD_CONCEPT_CAPTION": "Unknown",
+          "CONCEPT_CLASS_ID": null,
+          "INVALID_REASON": null
+        }
+      ]
+    }}
+  ],
+  "QualifiedLimit": {"Type": "First"},
+  "InclusionRules": [
+    {
+      "expression": {
+        "CriteriaList": [{
+          "RestrictVisit": false,
+          "StartWindow": {
+            "UseEventEnd": false,
+            "Start": {"Coeff": -1},
+            "End": {
+              "Days": 365,
+              "Coeff": -1
+            },
+            "UseIndexEnd": false
+          },
+          "IgnoreObservationPeriod": false,
+          "EndWindow": {
+            "UseEventEnd": true,
+            "Start": {
+              "Days": 0,
+              "Coeff": 1
+            },
+            "End": {"Coeff": 1},
+            "UseIndexEnd": false
+          },
+          "Criteria": {"ObservationPeriod": {}},
+          "Occurrence": {
+            "Type": 2,
+            "IsDistinct": false,
+            "Count": 1
+          }
+        }],
+        "Type": "ALL",
+        "DemographicCriteriaList": [],
+        "Groups": []
+      },
+      "name": "Minimum observation period of 365 days"
+    },
+    {
+      "expression": {
+        "CriteriaList": [
+          {
+            "RestrictVisit": false,
+            "StartWindow": {
+              "UseEventEnd": false,
+              "Start": {
+                "Days": 0,
+                "Coeff": -1
+              },
+              "End": {
+                "Days": 0,
+                "Coeff": -1
+              },
+              "UseIndexEnd": false
+            },
+            "IgnoreObservationPeriod": true,
+            "Criteria": {"Measurement": {
+              "MeasurementTypeExclude": false,
+              "CodesetId": 2,
+              "ValueAsNumber": {
+                "Op": "bt",
+                "Extent": 8.25,
+                "Value": 4
+              },
+              "Unit": [
+                {
+                  "INVALID_REASON_CAPTION": "Unknown",
+                  "CONCEPT_ID": 9444,
+                  "STANDARD_CONCEPT": null,
+                  "CONCEPT_CODE": "10*9/L",
+                  "VOCABULARY_ID": "UCUM",
+                  "CONCEPT_NAME": "billion per liter",
+                  "DOMAIN_ID": "Unit",
+                  "STANDARD_CONCEPT_CAPTION": "Unknown",
+                  "CONCEPT_CLASS_ID": null,
+                  "INVALID_REASON": null
+                },
+                {
+                  "INVALID_REASON_CAPTION": "Unknown",
+                  "CONCEPT_ID": 8848,
+                  "STANDARD_CONCEPT": null,
+                  "CONCEPT_CODE": "10*3/uL",
+                  "VOCABULARY_ID": "UCUM",
+                  "CONCEPT_NAME": "thousand per microliter",
+                  "DOMAIN_ID": "Unit",
+                  "STANDARD_CONCEPT_CAPTION": "Unknown",
+                  "CONCEPT_CLASS_ID": null,
+                  "INVALID_REASON": null
+                },
+                {
+                  "INVALID_REASON_CAPTION": "Unknown",
+                  "CONCEPT_ID": 8816,
+                  "STANDARD_CONCEPT": null,
+                  "CONCEPT_CODE": "10*6/mL",
+                  "VOCABULARY_ID": "UCUM",
+                  "CONCEPT_NAME": "million per milliliter",
+                  "DOMAIN_ID": "Unit",
+                  "STANDARD_CONCEPT_CAPTION": "Unknown",
+                  "CONCEPT_CLASS_ID": null,
+                  "INVALID_REASON": null
+                },
+                {
+                  "INVALID_REASON_CAPTION": "Unknown",
+                  "CONCEPT_ID": 8961,
+                  "STANDARD_CONCEPT": null,
+                  "CONCEPT_CODE": "10*3/mm3",
+                  "VOCABULARY_ID": "UCUM",
+                  "CONCEPT_NAME": "thousand per cubic millimeter",
+                  "DOMAIN_ID": "Unit",
+                  "STANDARD_CONCEPT_CAPTION": "Unknown",
+                  "CONCEPT_CLASS_ID": null,
+                  "INVALID_REASON": null
+                },
+                {
+                  "INVALID_REASON_CAPTION": "Unknown",
+                  "CONCEPT_ID": 44777588,
+                  "STANDARD_CONCEPT": null,
+                  "CONCEPT_CODE": "10*9.{cellls}/L",
+                  "VOCABULARY_ID": "UCUM",
+                  "CONCEPT_NAME": "billion cells per liter",
+                  "DOMAIN_ID": "Unit",
+                  "STANDARD_CONCEPT_CAPTION": "Unknown",
+                  "CONCEPT_CLASS_ID": null,
+                  "INVALID_REASON": null
+                }
+              ]
+            }},
+            "Occurrence": {
+              "Type": 0,
+              "IsDistinct": false,
+              "Count": 0
+            }
+          },
+          {
+            "RestrictVisit": false,
+            "StartWindow": {
+              "UseEventEnd": false,
+              "Start": {
+                "Days": 0,
+                "Coeff": -1
+              },
+              "End": {
+                "Days": 0,
+                "Coeff": 1
+              },
+              "UseIndexEnd": false
+            },
+            "IgnoreObservationPeriod": true,
+            "Criteria": {"Measurement": {
+              "MeasurementTypeExclude": false,
+              "CodesetId": 2,
+              "ValueAsNumber": {
+                "Op": "bt",
+                "Extent": 8250,
+                "Value": 4000
+              },
+              "Unit": [
+                {
+                  "INVALID_REASON_CAPTION": "Unknown",
+                  "CONCEPT_ID": 8784,
+                  "STANDARD_CONCEPT": null,
+                  "CONCEPT_CODE": "{cells}/uL",
+                  "VOCABULARY_ID": "UCUM",
+                  "CONCEPT_NAME": "cells per microliter",
+                  "DOMAIN_ID": "Unit",
+                  "STANDARD_CONCEPT_CAPTION": "Unknown",
+                  "CONCEPT_CLASS_ID": null,
+                  "INVALID_REASON": null
+                },
+                {
+                  "INVALID_REASON_CAPTION": "Unknown",
+                  "CONCEPT_ID": 8647,
+                  "STANDARD_CONCEPT": null,
+                  "CONCEPT_CODE": "/uL",
+                  "VOCABULARY_ID": "UCUM",
+                  "CONCEPT_NAME": "per microliter",
+                  "DOMAIN_ID": "Unit",
+                  "STANDARD_CONCEPT_CAPTION": "Unknown",
+                  "CONCEPT_CLASS_ID": null,
+                  "INVALID_REASON": null
+                }
+              ]
+            }},
+            "Occurrence": {
+              "Type": 0,
+              "IsDistinct": false,
+              "Count": 0
+            }
+          }
+        ],
+        "Type": "ALL",
+        "DemographicCriteriaList": [],
+        "Groups": []
+      },
+      "name": "No Normal Neutrophil count on index date"
+    },
+    {
+      "expression": {
+        "CriteriaList": [{
+          "RestrictVisit": false,
+          "StartWindow": {
+            "UseEventEnd": false,
+            "Start": {
+              "Days": 0,
+              "Coeff": -1
+            },
+            "End": {
+              "Days": 0,
+              "Coeff": -1
+            },
+            "UseIndexEnd": false
+          },
+          "IgnoreObservationPeriod": true,
+          "Criteria": {"ConditionOccurrence": {
+            "ConditionTypeExclude": false,
+            "CodesetId": 4
+          }},
+          "Occurrence": {
+            "Type": 0,
+            "IsDistinct": false,
+            "Count": 0
+          }
+        }],
+        "Type": "ALL",
+        "DemographicCriteriaList": [],
+        "Groups": []
+      },
+      "name": "No Neutrophilia on index date"
+    }
+  ],
+  "PrimaryCriteria": {
+    "CriteriaList": [
+      {"ConditionOccurrence": {
+        "ConditionTypeExclude": false,
+        "CodesetId": 0
+      }},
+      {"Measurement": {
+        "MeasurementTypeExclude": false,
+        "CodesetId": 2,
+        "ValueAsNumber": {
+          "Op": "bt",
+          "Extent": 1.4990000000000001101341,
+          "Value": 0.010000000000000000208167
+        },
+        "Unit": [
+          {
+            "INVALID_REASON_CAPTION": "Unknown",
+            "CONCEPT_ID": 9444,
+            "STANDARD_CONCEPT": null,
+            "CONCEPT_CODE": "10*9/L",
+            "VOCABULARY_ID": "UCUM",
+            "CONCEPT_NAME": "billion per liter",
+            "DOMAIN_ID": "Unit",
+            "STANDARD_CONCEPT_CAPTION": "Unknown",
+            "CONCEPT_CLASS_ID": null,
+            "INVALID_REASON": null
+          },
+          {
+            "INVALID_REASON_CAPTION": "Unknown",
+            "CONCEPT_ID": 8848,
+            "STANDARD_CONCEPT": null,
+            "CONCEPT_CODE": "10*3/uL",
+            "VOCABULARY_ID": "UCUM",
+            "CONCEPT_NAME": "thousand per microliter",
+            "DOMAIN_ID": "Unit",
+            "STANDARD_CONCEPT_CAPTION": "Unknown",
+            "CONCEPT_CLASS_ID": null,
+            "INVALID_REASON": null
+          },
+          {
+            "INVALID_REASON_CAPTION": "Unknown",
+            "CONCEPT_ID": 8816,
+            "STANDARD_CONCEPT": null,
+            "CONCEPT_CODE": "10*6/mL",
+            "VOCABULARY_ID": "UCUM",
+            "CONCEPT_NAME": "million per milliliter",
+            "DOMAIN_ID": "Unit",
+            "STANDARD_CONCEPT_CAPTION": "Unknown",
+            "CONCEPT_CLASS_ID": null,
+            "INVALID_REASON": null
+          },
+          {
+            "INVALID_REASON_CAPTION": "Unknown",
+            "CONCEPT_ID": 8961,
+            "STANDARD_CONCEPT": null,
+            "CONCEPT_CODE": "10*3/mm3",
+            "VOCABULARY_ID": "UCUM",
+            "CONCEPT_NAME": "thousand per cubic millimeter",
+            "DOMAIN_ID": "Unit",
+            "STANDARD_CONCEPT_CAPTION": "Unknown",
+            "CONCEPT_CLASS_ID": null,
+            "INVALID_REASON": null
+          },
+          {
+            "INVALID_REASON_CAPTION": "Unknown",
+            "CONCEPT_ID": 44777588,
+            "STANDARD_CONCEPT": null,
+            "CONCEPT_CODE": "10*9.{cellls}/L",
+            "VOCABULARY_ID": "UCUM",
+            "CONCEPT_NAME": "billion cells per liter",
+            "DOMAIN_ID": "Unit",
+            "STANDARD_CONCEPT_CAPTION": "Unknown",
+            "CONCEPT_CLASS_ID": null,
+            "INVALID_REASON": null
+          }
+        ]
+      }},
+      {"Measurement": {
+        "MeasurementTypeExclude": false,
+        "CodesetId": 2,
+        "ValueAsNumber": {
+          "Op": "bt",
+          "Extent": 1499,
+          "Value": 10
+        },
+        "Unit": [
+          {
+            "INVALID_REASON_CAPTION": "Unknown",
+            "CONCEPT_ID": 8784,
+            "STANDARD_CONCEPT": null,
+            "CONCEPT_CODE": "{cells}/uL",
+            "VOCABULARY_ID": "UCUM",
+            "CONCEPT_NAME": "cells per microliter",
+            "DOMAIN_ID": "Unit",
+            "STANDARD_CONCEPT_CAPTION": "Unknown",
+            "CONCEPT_CLASS_ID": null,
+            "INVALID_REASON": null
+          },
+          {
+            "INVALID_REASON_CAPTION": "Unknown",
+            "CONCEPT_ID": 8647,
+            "STANDARD_CONCEPT": null,
+            "CONCEPT_CODE": "/uL",
+            "VOCABULARY_ID": "UCUM",
+            "CONCEPT_NAME": "per microliter",
+            "DOMAIN_ID": "Unit",
+            "STANDARD_CONCEPT_CAPTION": "Unknown",
+            "CONCEPT_CLASS_ID": null,
+            "INVALID_REASON": null
+          }
+        ]
+      }}
+    ],
+    "PrimaryCriteriaLimit": {"Type": "All"},
+    "ObservationWindow": {
+      "PostDays": 0,
+      "PriorDays": 0
+    }
+  }
+}

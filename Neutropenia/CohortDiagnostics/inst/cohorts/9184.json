@@ -1,0 +1,2168 @@
+{
+  "ExpressionLimit": {"Type": "All"},
+  "CollapseSettings": {
+    "CollapseType": "ERA",
+    "EraPad": 365
+  },
+  "CensorWindow": {},
+  "ConceptSets": [
+    {
+      "expression": {"items": [
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 36715585,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "721303001",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Refractory neutropenia",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 320073,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "165517008",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Neutropenia",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 42872951,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "450946009",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Refractory neutropenia",
+            "DOMAIN_ID": "Observation",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Morph Abnormality",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 435224,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "84828003",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Leukopenia",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 440689,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "17182001",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Agranulocytosis",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 45766061,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "703148008",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Periodontitis associated with chronic familial neutropenia",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4119158,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "303011007",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Neutropenic disorder",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        }
+      ]},
+      "name": "Neutropenia, Agranulocytosis or Unspecified Leukopenia",
+      "id": 0
+    },
+    {
+      "expression": {"items": [
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 193448,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "58639003",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Doan-Wiseman syndrome",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4289321,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "69080001",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Propionic acidemia",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 35622701,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "764860006",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "3-methylglutaconic aciduria type 7",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 434895,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "89655007",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Congenital neutropenia",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        }
+      ]},
+      "name": "congenital or genetic neutropenia, leukopenia or agranulocytosis",
+      "id": 1
+    },
+    {
+      "expression": {"items": [
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 37393856,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "1022551000000104",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Neutrophil count",
+            "DOMAIN_ID": "Measurement",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Observable Entity",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4148615,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "30630007",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Neutrophil count",
+            "DOMAIN_ID": "Measurement",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Procedure",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 3017732,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "26499-4",
+            "VOCABULARY_ID": "LOINC",
+            "CONCEPT_NAME": "Neutrophils [#/volume] in Blood",
+            "DOMAIN_ID": "Measurement",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Lab Test",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 3013650,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "751-8",
+            "VOCABULARY_ID": "LOINC",
+            "CONCEPT_NAME": "Neutrophils [#/volume] in Blood by Automated count",
+            "DOMAIN_ID": "Measurement",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Lab Test",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 3017501,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "753-4",
+            "VOCABULARY_ID": "LOINC",
+            "CONCEPT_NAME": "Neutrophils [#/volume] in Blood by Manual count",
+            "DOMAIN_ID": "Measurement",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Lab Test",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        }
+      ]},
+      "name": "Neutrophil Absolute Count",
+      "id": 2
+    },
+    {
+      "expression": {"items": [{
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 4306106,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "165518003",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_NAME": "Neutrophilia",
+          "DOMAIN_ID": "Condition",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Clinical Finding",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      }]},
+      "name": "Neutrophilia",
+      "id": 4
+    },
+    {
+      "expression": {"items": [
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 432881,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "127034005",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Pancytopenia",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4131124,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "127035006",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Bone marrow disorder",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        }
+      ]},
+      "name": "Pancytopenia & bone marrow disorder",
+      "id": 14
+    },
+    {
+      "expression": {"items": [
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 2617149,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "EB",
+            "VOCABULARY_ID": "HCPCS",
+            "CONCEPT_NAME": "Erythropoetic stimulating agent (esa) administered to treat anemia due to anti-cancer radiotherapy",
+            "DOMAIN_ID": "Observation",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "HCPCS Modifier",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 36716029,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "721840000",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Hyperuricemia, anemia, renal failure syndrome",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 2617148,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "EA",
+            "VOCABULARY_ID": "HCPCS",
+            "CONCEPT_NAME": "Erythropoetic stimulating agent (esa) administered to treat anemia due to anti-cancer chemotherapy",
+            "DOMAIN_ID": "Observation",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "HCPCS Modifier",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4029669,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "128846006",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Refractory anemia with sideroblasts",
+            "DOMAIN_ID": "Observation",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Morph Abnormality",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4120449,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "234345001",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "von Jaksch's anemia",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 35624756,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "767657005",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Anemia due to and following chemotherapy",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4028718,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "128847002",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Refractory anemia with excess blasts",
+            "DOMAIN_ID": "Observation",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Morph Abnormality",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 37017165,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "713388002",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "GATA binding protein 1 related thrombocytopenia with dyserythropoiesis",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4144746,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "427306008",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Hereditary hemoglobinopathy",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 2617150,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "EC",
+            "VOCABULARY_ID": "HCPCS",
+            "CONCEPT_NAME": "Erythropoetic stimulating agent (esa) administered to treat anemia not due to anti-cancer radiotherapy or anti-cancer chemotherapy",
+            "DOMAIN_ID": "Observation",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "HCPCS Modifier",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 44831063,
+            "STANDARD_CONCEPT": "N",
+            "CONCEPT_CODE": "281.8",
+            "VOCABULARY_ID": "ICD9CM",
+            "CONCEPT_NAME": "Anemia associated with other specified nutritional deficiency",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+            "CONCEPT_CLASS_ID": "4-dig billing code",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4105643,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "193213003",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Myasthenic syndrome due to pernicious anemia",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 37398911,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "691401000119104",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Anemia in chronic kidney disease stage 4",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 438869,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "56921004",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Perinatal jaundice due to hereditary hemolytic anemia",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4183718,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "43742007",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Pericarditis associated with severe chronic anemia",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 37395652,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "691411000119101",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Anemia in chronic kidney disease stage 5",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4125630,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "234402007",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Chronic non-spherocytic hemolytic anemia",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4217370,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "71988008",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Aase syndrome",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4267432,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "62574001",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Erythropenia",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 36680584,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "778006008",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Autosomal dominant aplasia and myelodysplasia",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 37018722,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "713496008",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Anemia caused by zidovudine",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4295183,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "38589006",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Mixed hemoglobin disorder",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4028717,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "128845005",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Refractory anemia",
+            "DOMAIN_ID": "Observation",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Morph Abnormality",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 44783626,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "697908003",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Pulmonary arterial hypertension associated with chronic hemolytic anemia",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4159748,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "371104006",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Hand-foot syndrome in sickle cell anemia",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4051681,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "124961001",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Reticulocytopenia",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 37017132,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "713349004",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Anemia co-occurrent with human immunodeficiency virus infection",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4029670,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "128848007",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Refractory anemia with excess blasts in transformation",
+            "DOMAIN_ID": "Observation",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Morph Abnormality",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4006467,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "111570005",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Anemia due to infection",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 40478891,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "444271000",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Erythropoietin resistance in anemia of chronic kidney disease",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 36715584,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "721302006",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Refractory anemia with ringed sideroblasts associated with marked thrombocytosis",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        }
+      ]},
+      "name": "Anemia or Reticulocytopenia",
+      "id": 15
+    },
+    {
+      "expression": {"items": [
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 3000963,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "718-7",
+            "VOCABULARY_ID": "LOINC",
+            "CONCEPT_NAME": "Hemoglobin [Mass/volume] in Blood",
+            "DOMAIN_ID": "Measurement",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Lab Test",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 3027484,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "20509-6",
+            "VOCABULARY_ID": "LOINC",
+            "CONCEPT_NAME": "Hemoglobin [Mass/volume] in Blood by calculation",
+            "DOMAIN_ID": "Measurement",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Lab Test",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        }
+      ]},
+      "name": "Hemoglobin measurement",
+      "id": 16
+    },
+    {
+      "expression": {"items": [
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 3009542,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "20570-8",
+            "VOCABULARY_ID": "LOINC",
+            "CONCEPT_NAME": "Hematocrit [Volume Fraction] of Blood",
+            "DOMAIN_ID": "Measurement",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Lab Test",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 3034976,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "41654-5",
+            "VOCABULARY_ID": "LOINC",
+            "CONCEPT_NAME": "Hematocrit [Volume Fraction] of Venous blood",
+            "DOMAIN_ID": "Measurement",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Lab Test",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 3028813,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "42908-4",
+            "VOCABULARY_ID": "LOINC",
+            "CONCEPT_NAME": "Hematocrit [Volume Fraction] of Capillary blood",
+            "DOMAIN_ID": "Measurement",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Lab Test",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 3019909,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "4545-0",
+            "VOCABULARY_ID": "LOINC",
+            "CONCEPT_NAME": "Hematocrit [Volume Fraction] of Blood by Centrifugation",
+            "DOMAIN_ID": "Measurement",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Lab Test",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 3050746,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "48703-3",
+            "VOCABULARY_ID": "LOINC",
+            "CONCEPT_NAME": "Hematocrit [Volume Fraction] of Blood by Estimated",
+            "DOMAIN_ID": "Measurement",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Lab Test",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 42869584,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "71829-6",
+            "VOCABULARY_ID": "LOINC",
+            "CONCEPT_NAME": "Hematocrit [Pure volume fraction] of Venous blood",
+            "DOMAIN_ID": "Measurement",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Lab Test",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 3023314,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "4544-3",
+            "VOCABULARY_ID": "LOINC",
+            "CONCEPT_NAME": "Hematocrit [Volume Fraction] of Blood by Automated count",
+            "DOMAIN_ID": "Measurement",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Lab Test",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 42869588,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "71833-8",
+            "VOCABULARY_ID": "LOINC",
+            "CONCEPT_NAME": "Hematocrit [Pure volume fraction] of Blood by Automated count",
+            "DOMAIN_ID": "Measurement",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Lab Test",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4016241,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "104139004",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Hematocrit, spun microhematocrit method",
+            "DOMAIN_ID": "Measurement",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Procedure",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4151358,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "28317006",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Hematocrit determination",
+            "DOMAIN_ID": "Measurement",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Procedure",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4097621,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "250314004",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Platelet hematocrit measurement",
+            "DOMAIN_ID": "Measurement",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Procedure",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 2212641,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "85013",
+            "VOCABULARY_ID": "CPT4",
+            "CONCEPT_NAME": "Blood count; spun microhematocrit",
+            "DOMAIN_ID": "Measurement",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "CPT4",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 2212642,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "85014",
+            "VOCABULARY_ID": "CPT4",
+            "CONCEPT_NAME": "Blood count; hematocrit (Hct)",
+            "DOMAIN_ID": "Measurement",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "CPT4",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        }
+      ]},
+      "name": "Hematocrit measurement",
+      "id": 17
+    },
+    {
+      "expression": {"items": [
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 432870,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "302215000",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Thrombocytopenic disorder",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 37397537,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "718196002",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Beta thalassemia X-linked thrombocytopenia syndrome",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 42872952,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "450947000",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Refractory thrombocytopenia",
+            "DOMAIN_ID": "Observation",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Morph Abnormality",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        }
+      ]},
+      "name": "Thrombocytopenia",
+      "id": 18
+    },
+    {
+      "expression": {"items": [
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4267147,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "61928009",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Platelet count",
+            "DOMAIN_ID": "Measurement",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Procedure",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 3031586,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "49497-1",
+            "VOCABULARY_ID": "LOINC",
+            "CONCEPT_NAME": "Platelets [#/volume] in Blood by Estimate",
+            "DOMAIN_ID": "Measurement",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Lab Test",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 3050583,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "53800-9",
+            "VOCABULARY_ID": "LOINC",
+            "CONCEPT_NAME": "Platelets panel - Blood by Automated count",
+            "DOMAIN_ID": "Measurement",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Lab Test",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 3007461,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "26515-7",
+            "VOCABULARY_ID": "LOINC",
+            "CONCEPT_NAME": "Platelets [#/volume] in Blood",
+            "DOMAIN_ID": "Measurement",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Lab Test",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 37393863,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "1022651000000100",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Platelet count",
+            "DOMAIN_ID": "Measurement",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Observable Entity",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        }
+      ]},
+      "name": "Platelet measurement",
+      "id": 19
+    }
+  ],
+  "EndStrategy": {"DateOffset": {
+    "DateField": "StartDate",
+    "Offset": 21
+  }},
+  "cdmVersionRange": ">=5.0.0",
+  "CensoringCriteria": [
+    {"Measurement": {
+      "MeasurementTypeExclude": false,
+      "CodesetId": 2,
+      "ValueAsNumber": {
+        "Op": "bt",
+        "Extent": 8.25,
+        "Value": 4
+      },
+      "Unit": [
+        {
+          "INVALID_REASON_CAPTION": "Unknown",
+          "CONCEPT_ID": 9444,
+          "STANDARD_CONCEPT": null,
+          "CONCEPT_CODE": "10*9/L",
+          "VOCABULARY_ID": "UCUM",
+          "CONCEPT_NAME": "billion per liter",
+          "DOMAIN_ID": "Unit",
+          "STANDARD_CONCEPT_CAPTION": "Unknown",
+          "CONCEPT_CLASS_ID": null,
+          "INVALID_REASON": null
+        },
+        {
+          "INVALID_REASON_CAPTION": "Unknown",
+          "CONCEPT_ID": 8848,
+          "STANDARD_CONCEPT": null,
+          "CONCEPT_CODE": "10*3/uL",
+          "VOCABULARY_ID": "UCUM",
+          "CONCEPT_NAME": "thousand per microliter",
+          "DOMAIN_ID": "Unit",
+          "STANDARD_CONCEPT_CAPTION": "Unknown",
+          "CONCEPT_CLASS_ID": null,
+          "INVALID_REASON": null
+        },
+        {
+          "INVALID_REASON_CAPTION": "Unknown",
+          "CONCEPT_ID": 8816,
+          "STANDARD_CONCEPT": null,
+          "CONCEPT_CODE": "10*6/mL",
+          "VOCABULARY_ID": "UCUM",
+          "CONCEPT_NAME": "million per milliliter",
+          "DOMAIN_ID": "Unit",
+          "STANDARD_CONCEPT_CAPTION": "Unknown",
+          "CONCEPT_CLASS_ID": null,
+          "INVALID_REASON": null
+        },
+        {
+          "INVALID_REASON_CAPTION": "Unknown",
+          "CONCEPT_ID": 8961,
+          "STANDARD_CONCEPT": null,
+          "CONCEPT_CODE": "10*3/mm3",
+          "VOCABULARY_ID": "UCUM",
+          "CONCEPT_NAME": "thousand per cubic millimeter",
+          "DOMAIN_ID": "Unit",
+          "STANDARD_CONCEPT_CAPTION": "Unknown",
+          "CONCEPT_CLASS_ID": null,
+          "INVALID_REASON": null
+        },
+        {
+          "INVALID_REASON_CAPTION": "Unknown",
+          "CONCEPT_ID": 44777588,
+          "STANDARD_CONCEPT": null,
+          "CONCEPT_CODE": "10*9.{cellls}/L",
+          "VOCABULARY_ID": "UCUM",
+          "CONCEPT_NAME": "billion cells per liter",
+          "DOMAIN_ID": "Unit",
+          "STANDARD_CONCEPT_CAPTION": "Unknown",
+          "CONCEPT_CLASS_ID": null,
+          "INVALID_REASON": null
+        }
+      ]
+    }},
+    {"Measurement": {
+      "MeasurementTypeExclude": false,
+      "CodesetId": 2,
+      "ValueAsNumber": {
+        "Op": "bt",
+        "Extent": 8250,
+        "Value": 4000
+      },
+      "Unit": [
+        {
+          "INVALID_REASON_CAPTION": "Unknown",
+          "CONCEPT_ID": 8784,
+          "STANDARD_CONCEPT": null,
+          "CONCEPT_CODE": "{cells}/uL",
+          "VOCABULARY_ID": "UCUM",
+          "CONCEPT_NAME": "cells per microliter",
+          "DOMAIN_ID": "Unit",
+          "STANDARD_CONCEPT_CAPTION": "Unknown",
+          "CONCEPT_CLASS_ID": null,
+          "INVALID_REASON": null
+        },
+        {
+          "INVALID_REASON_CAPTION": "Unknown",
+          "CONCEPT_ID": 8647,
+          "STANDARD_CONCEPT": null,
+          "CONCEPT_CODE": "/uL",
+          "VOCABULARY_ID": "UCUM",
+          "CONCEPT_NAME": "per microliter",
+          "DOMAIN_ID": "Unit",
+          "STANDARD_CONCEPT_CAPTION": "Unknown",
+          "CONCEPT_CLASS_ID": null,
+          "INVALID_REASON": null
+        }
+      ]
+    }}
+  ],
+  "QualifiedLimit": {"Type": "First"},
+  "InclusionRules": [
+    {
+      "expression": {
+        "CriteriaList": [{
+          "RestrictVisit": false,
+          "StartWindow": {
+            "UseEventEnd": false,
+            "Start": {"Coeff": -1},
+            "End": {
+              "Days": 365,
+              "Coeff": -1
+            },
+            "UseIndexEnd": false
+          },
+          "IgnoreObservationPeriod": false,
+          "EndWindow": {
+            "UseEventEnd": true,
+            "Start": {
+              "Days": 0,
+              "Coeff": 1
+            },
+            "End": {"Coeff": 1},
+            "UseIndexEnd": false
+          },
+          "Criteria": {"ObservationPeriod": {}},
+          "Occurrence": {
+            "Type": 2,
+            "IsDistinct": false,
+            "Count": 1
+          }
+        }],
+        "Type": "ALL",
+        "DemographicCriteriaList": [],
+        "Groups": []
+      },
+      "name": "Minimum observation period of 365 days"
+    },
+    {
+      "expression": {
+        "CriteriaList": [{
+          "RestrictVisit": false,
+          "StartWindow": {
+            "UseEventEnd": false,
+            "Start": {"Coeff": -1},
+            "End": {
+              "Days": 7,
+              "Coeff": 1
+            },
+            "UseIndexEnd": false
+          },
+          "IgnoreObservationPeriod": true,
+          "Criteria": {"ConditionOccurrence": {
+            "ConditionTypeExclude": false,
+            "CodesetId": 1
+          }},
+          "Occurrence": {
+            "Type": 0,
+            "IsDistinct": false,
+            "Count": 0
+          }
+        }],
+        "Type": "ALL",
+        "DemographicCriteriaList": [],
+        "Groups": []
+      },
+      "name": "No congenital or genetic neutropenia, leukopenia or agranulocytosis"
+    },
+    {
+      "expression": {
+        "CriteriaList": [
+          {
+            "RestrictVisit": false,
+            "StartWindow": {
+              "UseEventEnd": false,
+              "Start": {
+                "Days": 0,
+                "Coeff": -1
+              },
+              "End": {
+                "Days": 0,
+                "Coeff": -1
+              },
+              "UseIndexEnd": false
+            },
+            "IgnoreObservationPeriod": true,
+            "Criteria": {"Measurement": {
+              "MeasurementTypeExclude": false,
+              "CodesetId": 2,
+              "ValueAsNumber": {
+                "Op": "bt",
+                "Extent": 8.25,
+                "Value": 4
+              },
+              "Unit": [
+                {
+                  "INVALID_REASON_CAPTION": "Unknown",
+                  "CONCEPT_ID": 9444,
+                  "STANDARD_CONCEPT": null,
+                  "CONCEPT_CODE": "10*9/L",
+                  "VOCABULARY_ID": "UCUM",
+                  "CONCEPT_NAME": "billion per liter",
+                  "DOMAIN_ID": "Unit",
+                  "STANDARD_CONCEPT_CAPTION": "Unknown",
+                  "CONCEPT_CLASS_ID": null,
+                  "INVALID_REASON": null
+                },
+                {
+                  "INVALID_REASON_CAPTION": "Unknown",
+                  "CONCEPT_ID": 8848,
+                  "STANDARD_CONCEPT": null,
+                  "CONCEPT_CODE": "10*3/uL",
+                  "VOCABULARY_ID": "UCUM",
+                  "CONCEPT_NAME": "thousand per microliter",
+                  "DOMAIN_ID": "Unit",
+                  "STANDARD_CONCEPT_CAPTION": "Unknown",
+                  "CONCEPT_CLASS_ID": null,
+                  "INVALID_REASON": null
+                },
+                {
+                  "INVALID_REASON_CAPTION": "Unknown",
+                  "CONCEPT_ID": 8816,
+                  "STANDARD_CONCEPT": null,
+                  "CONCEPT_CODE": "10*6/mL",
+                  "VOCABULARY_ID": "UCUM",
+                  "CONCEPT_NAME": "million per milliliter",
+                  "DOMAIN_ID": "Unit",
+                  "STANDARD_CONCEPT_CAPTION": "Unknown",
+                  "CONCEPT_CLASS_ID": null,
+                  "INVALID_REASON": null
+                },
+                {
+                  "INVALID_REASON_CAPTION": "Unknown",
+                  "CONCEPT_ID": 8961,
+                  "STANDARD_CONCEPT": null,
+                  "CONCEPT_CODE": "10*3/mm3",
+                  "VOCABULARY_ID": "UCUM",
+                  "CONCEPT_NAME": "thousand per cubic millimeter",
+                  "DOMAIN_ID": "Unit",
+                  "STANDARD_CONCEPT_CAPTION": "Unknown",
+                  "CONCEPT_CLASS_ID": null,
+                  "INVALID_REASON": null
+                },
+                {
+                  "INVALID_REASON_CAPTION": "Unknown",
+                  "CONCEPT_ID": 44777588,
+                  "STANDARD_CONCEPT": null,
+                  "CONCEPT_CODE": "10*9.{cellls}/L",
+                  "VOCABULARY_ID": "UCUM",
+                  "CONCEPT_NAME": "billion cells per liter",
+                  "DOMAIN_ID": "Unit",
+                  "STANDARD_CONCEPT_CAPTION": "Unknown",
+                  "CONCEPT_CLASS_ID": null,
+                  "INVALID_REASON": null
+                }
+              ]
+            }},
+            "Occurrence": {
+              "Type": 0,
+              "IsDistinct": false,
+              "Count": 0
+            }
+          },
+          {
+            "RestrictVisit": false,
+            "StartWindow": {
+              "UseEventEnd": false,
+              "Start": {
+                "Days": 0,
+                "Coeff": -1
+              },
+              "End": {
+                "Days": 0,
+                "Coeff": 1
+              },
+              "UseIndexEnd": false
+            },
+            "IgnoreObservationPeriod": true,
+            "Criteria": {"Measurement": {
+              "MeasurementTypeExclude": false,
+              "CodesetId": 2,
+              "ValueAsNumber": {
+                "Op": "bt",
+                "Extent": 8250,
+                "Value": 4000
+              },
+              "Unit": [
+                {
+                  "INVALID_REASON_CAPTION": "Unknown",
+                  "CONCEPT_ID": 8784,
+                  "STANDARD_CONCEPT": null,
+                  "CONCEPT_CODE": "{cells}/uL",
+                  "VOCABULARY_ID": "UCUM",
+                  "CONCEPT_NAME": "cells per microliter",
+                  "DOMAIN_ID": "Unit",
+                  "STANDARD_CONCEPT_CAPTION": "Unknown",
+                  "CONCEPT_CLASS_ID": null,
+                  "INVALID_REASON": null
+                },
+                {
+                  "INVALID_REASON_CAPTION": "Unknown",
+                  "CONCEPT_ID": 8647,
+                  "STANDARD_CONCEPT": null,
+                  "CONCEPT_CODE": "/uL",
+                  "VOCABULARY_ID": "UCUM",
+                  "CONCEPT_NAME": "per microliter",
+                  "DOMAIN_ID": "Unit",
+                  "STANDARD_CONCEPT_CAPTION": "Unknown",
+                  "CONCEPT_CLASS_ID": null,
+                  "INVALID_REASON": null
+                }
+              ]
+            }},
+            "Occurrence": {
+              "Type": 0,
+              "IsDistinct": false,
+              "Count": 0
+            }
+          }
+        ],
+        "Type": "ALL",
+        "DemographicCriteriaList": [],
+        "Groups": []
+      },
+      "name": "No Normal Neutrophil count on index date"
+    },
+    {
+      "expression": {
+        "CriteriaList": [{
+          "RestrictVisit": false,
+          "StartWindow": {
+            "UseEventEnd": false,
+            "Start": {
+              "Days": 0,
+              "Coeff": -1
+            },
+            "End": {
+              "Days": 0,
+              "Coeff": -1
+            },
+            "UseIndexEnd": false
+          },
+          "IgnoreObservationPeriod": true,
+          "Criteria": {"ConditionOccurrence": {
+            "ConditionTypeExclude": false,
+            "CodesetId": 4
+          }},
+          "Occurrence": {
+            "Type": 0,
+            "IsDistinct": false,
+            "Count": 0
+          }
+        }],
+        "Type": "ALL",
+        "DemographicCriteriaList": [],
+        "Groups": []
+      },
+      "name": "No Neutrophilia on index date"
+    },
+    {
+      "expression": {
+        "CriteriaList": [{
+          "RestrictVisit": false,
+          "StartWindow": {
+            "UseEventEnd": false,
+            "Start": {
+              "Days": 7,
+              "Coeff": -1
+            },
+            "End": {
+              "Days": 7,
+              "Coeff": 1
+            },
+            "UseIndexEnd": false
+          },
+          "IgnoreObservationPeriod": true,
+          "Criteria": {"ConditionOccurrence": {
+            "ConditionTypeExclude": false,
+            "CodesetId": 14
+          }},
+          "Occurrence": {
+            "Type": 0,
+            "IsDistinct": false,
+            "Count": 0
+          }
+        }],
+        "Type": "ALL",
+        "DemographicCriteriaList": [],
+        "Groups": []
+      },
+      "name": "No Pancytopenia or bone marrow disorder within 7 days"
+    },
+    {
+      "expression": {
+        "CriteriaList": [
+          {
+            "RestrictVisit": false,
+            "StartWindow": {
+              "UseEventEnd": false,
+              "Start": {
+                "Days": 7,
+                "Coeff": -1
+              },
+              "End": {
+                "Days": 7,
+                "Coeff": 1
+              },
+              "UseIndexEnd": false
+            },
+            "IgnoreObservationPeriod": true,
+            "Criteria": {"ConditionOccurrence": {
+              "ConditionTypeExclude": false,
+              "CodesetId": 15
+            }},
+            "Occurrence": {
+              "Type": 0,
+              "IsDistinct": false,
+              "Count": 0
+            }
+          },
+          {
+            "RestrictVisit": false,
+            "StartWindow": {
+              "UseEventEnd": false,
+              "Start": {
+                "Days": 7,
+                "Coeff": -1
+              },
+              "End": {
+                "Days": 7,
+                "Coeff": 1
+              },
+              "UseIndexEnd": false
+            },
+            "IgnoreObservationPeriod": true,
+            "Criteria": {"Observation": {
+              "ObservationTypeExclude": false,
+              "CodesetId": 15
+            }},
+            "Occurrence": {
+              "Type": 0,
+              "IsDistinct": false,
+              "Count": 0
+            }
+          }
+        ],
+        "Type": "ALL",
+        "DemographicCriteriaList": [],
+        "Groups": []
+      },
+      "name": "No Anemia diagnosis within 7 days"
+    },
+    {
+      "expression": {
+        "CriteriaList": [{
+          "RestrictVisit": false,
+          "StartWindow": {
+            "UseEventEnd": false,
+            "Start": {
+              "Days": 7,
+              "Coeff": -1
+            },
+            "End": {
+              "Days": 7,
+              "Coeff": 1
+            },
+            "UseIndexEnd": false
+          },
+          "IgnoreObservationPeriod": true,
+          "Criteria": {"Measurement": {
+            "MeasurementTypeExclude": false,
+            "CodesetId": 16,
+            "ValueAsNumber": {
+              "Op": "bt",
+              "Extent": 11,
+              "Value": 4
+            },
+            "Unit": [
+              {
+                "INVALID_REASON_CAPTION": "Unknown",
+                "CONCEPT_ID": 4121395,
+                "STANDARD_CONCEPT": null,
+                "CONCEPT_CODE": "258795003",
+                "VOCABULARY_ID": "SNOMED",
+                "CONCEPT_NAME": "g/dL",
+                "DOMAIN_ID": "Unit",
+                "STANDARD_CONCEPT_CAPTION": "Unknown",
+                "CONCEPT_CLASS_ID": null,
+                "INVALID_REASON": null
+              },
+              {
+                "INVALID_REASON_CAPTION": "Unknown",
+                "CONCEPT_ID": 8713,
+                "STANDARD_CONCEPT": null,
+                "CONCEPT_CODE": "g/dL",
+                "VOCABULARY_ID": "UCUM",
+                "CONCEPT_NAME": "gram per deciliter",
+                "DOMAIN_ID": "Unit",
+                "STANDARD_CONCEPT_CAPTION": "Unknown",
+                "CONCEPT_CLASS_ID": null,
+                "INVALID_REASON": null
+              },
+              {
+                "INVALID_REASON_CAPTION": "Unknown",
+                "CONCEPT_ID": 8950,
+                "STANDARD_CONCEPT": null,
+                "CONCEPT_CODE": "g/dL{calc}",
+                "VOCABULARY_ID": "UCUM",
+                "CONCEPT_NAME": "gram per deciliter calculated",
+                "DOMAIN_ID": "Unit",
+                "STANDARD_CONCEPT_CAPTION": "Unknown",
+                "CONCEPT_CLASS_ID": null,
+                "INVALID_REASON": null
+              }
+            ]
+          }},
+          "Occurrence": {
+            "Type": 0,
+            "IsDistinct": false,
+            "Count": 0
+          }
+        }],
+        "Type": "ALL",
+        "DemographicCriteriaList": [],
+        "Groups": []
+      },
+      "name": "No low Hemoglobin measurement in blood within 7 days"
+    },
+    {
+      "expression": {
+        "CriteriaList": [{
+          "RestrictVisit": false,
+          "StartWindow": {
+            "UseEventEnd": false,
+            "Start": {
+              "Days": 7,
+              "Coeff": -1
+            },
+            "End": {
+              "Days": 7,
+              "Coeff": 1
+            },
+            "UseIndexEnd": false
+          },
+          "IgnoreObservationPeriod": true,
+          "Criteria": {"Measurement": {
+            "MeasurementTypeExclude": false,
+            "CodesetId": 17,
+            "ValueAsNumber": {
+              "Op": "bt",
+              "Extent": 30,
+              "Value": 5
+            },
+            "Unit": [{
+              "INVALID_REASON_CAPTION": "Unknown",
+              "CONCEPT_ID": 8554,
+              "STANDARD_CONCEPT": null,
+              "CONCEPT_CODE": "%",
+              "VOCABULARY_ID": "UCUM",
+              "CONCEPT_NAME": "percent",
+              "DOMAIN_ID": "Unit",
+              "STANDARD_CONCEPT_CAPTION": "Unknown",
+              "CONCEPT_CLASS_ID": null,
+              "INVALID_REASON": null
+            }]
+          }},
+          "Occurrence": {
+            "Type": 0,
+            "IsDistinct": false,
+            "Count": 0
+          }
+        }],
+        "Type": "ALL",
+        "DemographicCriteriaList": [],
+        "Groups": []
+      },
+      "name": "No low Hematocrit measurement in blood within 7 days"
+    },
+    {
+      "expression": {
+        "CriteriaList": [
+          {
+            "RestrictVisit": false,
+            "StartWindow": {
+              "UseEventEnd": false,
+              "Start": {
+                "Days": 7,
+                "Coeff": -1
+              },
+              "End": {
+                "Days": 7,
+                "Coeff": 1
+              },
+              "UseIndexEnd": false
+            },
+            "IgnoreObservationPeriod": true,
+            "Criteria": {"ConditionOccurrence": {
+              "ConditionTypeExclude": false,
+              "CodesetId": 18
+            }},
+            "Occurrence": {
+              "Type": 0,
+              "IsDistinct": false,
+              "Count": 0
+            }
+          },
+          {
+            "RestrictVisit": false,
+            "StartWindow": {
+              "UseEventEnd": false,
+              "Start": {
+                "Days": 7,
+                "Coeff": -1
+              },
+              "End": {
+                "Days": 7,
+                "Coeff": 1
+              },
+              "UseIndexEnd": false
+            },
+            "IgnoreObservationPeriod": true,
+            "Criteria": {"Observation": {
+              "ObservationTypeExclude": false,
+              "CodesetId": 18
+            }},
+            "Occurrence": {
+              "Type": 0,
+              "IsDistinct": false,
+              "Count": 0
+            }
+          }
+        ],
+        "Type": "ALL",
+        "DemographicCriteriaList": [],
+        "Groups": []
+      },
+      "name": "No thrombocytopenia within 7 days"
+    },
+    {
+      "expression": {
+        "CriteriaList": [{
+          "RestrictVisit": false,
+          "StartWindow": {
+            "UseEventEnd": false,
+            "Start": {
+              "Days": 7,
+              "Coeff": -1
+            },
+            "End": {
+              "Days": 7,
+              "Coeff": 1
+            },
+            "UseIndexEnd": false
+          },
+          "IgnoreObservationPeriod": true,
+          "Criteria": {"Measurement": {
+            "MeasurementTypeExclude": false,
+            "CodesetId": 19,
+            "ValueAsNumber": {
+              "Op": "bt",
+              "Extent": 149,
+              "Value": 10
+            },
+            "Unit": [
+              {
+                "INVALID_REASON_CAPTION": "Unknown",
+                "CONCEPT_ID": 8848,
+                "STANDARD_CONCEPT": null,
+                "CONCEPT_CODE": "10*3/uL",
+                "VOCABULARY_ID": "UCUM",
+                "CONCEPT_NAME": "thousand per microliter",
+                "DOMAIN_ID": "Unit",
+                "STANDARD_CONCEPT_CAPTION": "Unknown",
+                "CONCEPT_CLASS_ID": null,
+                "INVALID_REASON": null
+              },
+              {
+                "INVALID_REASON_CAPTION": "Unknown",
+                "CONCEPT_ID": 8961,
+                "STANDARD_CONCEPT": null,
+                "CONCEPT_CODE": "10*3/mm3",
+                "VOCABULARY_ID": "UCUM",
+                "CONCEPT_NAME": "thousand per cubic millimeter",
+                "DOMAIN_ID": "Unit",
+                "STANDARD_CONCEPT_CAPTION": "Unknown",
+                "CONCEPT_CLASS_ID": null,
+                "INVALID_REASON": null
+              },
+              {
+                "INVALID_REASON_CAPTION": "Unknown",
+                "CONCEPT_ID": 9444,
+                "STANDARD_CONCEPT": null,
+                "CONCEPT_CODE": "10*9/L",
+                "VOCABULARY_ID": "UCUM",
+                "CONCEPT_NAME": "billion per liter",
+                "DOMAIN_ID": "Unit",
+                "STANDARD_CONCEPT_CAPTION": "Unknown",
+                "CONCEPT_CLASS_ID": null,
+                "INVALID_REASON": null
+              },
+              {
+                "INVALID_REASON_CAPTION": "Unknown",
+                "CONCEPT_ID": 8816,
+                "STANDARD_CONCEPT": null,
+                "CONCEPT_CODE": "10*6/mL",
+                "VOCABULARY_ID": "UCUM",
+                "CONCEPT_NAME": "million per milliliter",
+                "DOMAIN_ID": "Unit",
+                "STANDARD_CONCEPT_CAPTION": "Unknown",
+                "CONCEPT_CLASS_ID": null,
+                "INVALID_REASON": null
+              }
+            ]
+          }},
+          "Occurrence": {
+            "Type": 0,
+            "IsDistinct": false,
+            "Count": 0
+          }
+        }],
+        "Type": "ALL",
+        "DemographicCriteriaList": [],
+        "Groups": []
+      },
+      "name": "No low Platelet measurement in blood within 7 days"
+    }
+  ],
+  "PrimaryCriteria": {
+    "CriteriaList": [
+      {"ConditionOccurrence": {
+        "ConditionTypeExclude": false,
+        "CodesetId": 0
+      }},
+      {"Measurement": {
+        "MeasurementTypeExclude": false,
+        "CodesetId": 2,
+        "ValueAsNumber": {
+          "Op": "bt",
+          "Extent": 1.4990000000000001101341,
+          "Value": 0.010000000000000000208167
+        },
+        "Unit": [
+          {
+            "INVALID_REASON_CAPTION": "Unknown",
+            "CONCEPT_ID": 9444,
+            "STANDARD_CONCEPT": null,
+            "CONCEPT_CODE": "10*9/L",
+            "VOCABULARY_ID": "UCUM",
+            "CONCEPT_NAME": "billion per liter",
+            "DOMAIN_ID": "Unit",
+            "STANDARD_CONCEPT_CAPTION": "Unknown",
+            "CONCEPT_CLASS_ID": null,
+            "INVALID_REASON": null
+          },
+          {
+            "INVALID_REASON_CAPTION": "Unknown",
+            "CONCEPT_ID": 8848,
+            "STANDARD_CONCEPT": null,
+            "CONCEPT_CODE": "10*3/uL",
+            "VOCABULARY_ID": "UCUM",
+            "CONCEPT_NAME": "thousand per microliter",
+            "DOMAIN_ID": "Unit",
+            "STANDARD_CONCEPT_CAPTION": "Unknown",
+            "CONCEPT_CLASS_ID": null,
+            "INVALID_REASON": null
+          },
+          {
+            "INVALID_REASON_CAPTION": "Unknown",
+            "CONCEPT_ID": 8816,
+            "STANDARD_CONCEPT": null,
+            "CONCEPT_CODE": "10*6/mL",
+            "VOCABULARY_ID": "UCUM",
+            "CONCEPT_NAME": "million per milliliter",
+            "DOMAIN_ID": "Unit",
+            "STANDARD_CONCEPT_CAPTION": "Unknown",
+            "CONCEPT_CLASS_ID": null,
+            "INVALID_REASON": null
+          },
+          {
+            "INVALID_REASON_CAPTION": "Unknown",
+            "CONCEPT_ID": 8961,
+            "STANDARD_CONCEPT": null,
+            "CONCEPT_CODE": "10*3/mm3",
+            "VOCABULARY_ID": "UCUM",
+            "CONCEPT_NAME": "thousand per cubic millimeter",
+            "DOMAIN_ID": "Unit",
+            "STANDARD_CONCEPT_CAPTION": "Unknown",
+            "CONCEPT_CLASS_ID": null,
+            "INVALID_REASON": null
+          },
+          {
+            "INVALID_REASON_CAPTION": "Unknown",
+            "CONCEPT_ID": 44777588,
+            "STANDARD_CONCEPT": null,
+            "CONCEPT_CODE": "10*9.{cellls}/L",
+            "VOCABULARY_ID": "UCUM",
+            "CONCEPT_NAME": "billion cells per liter",
+            "DOMAIN_ID": "Unit",
+            "STANDARD_CONCEPT_CAPTION": "Unknown",
+            "CONCEPT_CLASS_ID": null,
+            "INVALID_REASON": null
+          }
+        ]
+      }},
+      {"Measurement": {
+        "MeasurementTypeExclude": false,
+        "CodesetId": 2,
+        "ValueAsNumber": {
+          "Op": "bt",
+          "Extent": 1499,
+          "Value": 10
+        },
+        "Unit": [
+          {
+            "INVALID_REASON_CAPTION": "Unknown",
+            "CONCEPT_ID": 8784,
+            "STANDARD_CONCEPT": null,
+            "CONCEPT_CODE": "{cells}/uL",
+            "VOCABULARY_ID": "UCUM",
+            "CONCEPT_NAME": "cells per microliter",
+            "DOMAIN_ID": "Unit",
+            "STANDARD_CONCEPT_CAPTION": "Unknown",
+            "CONCEPT_CLASS_ID": null,
+            "INVALID_REASON": null
+          },
+          {
+            "INVALID_REASON_CAPTION": "Unknown",
+            "CONCEPT_ID": 8647,
+            "STANDARD_CONCEPT": null,
+            "CONCEPT_CODE": "/uL",
+            "VOCABULARY_ID": "UCUM",
+            "CONCEPT_NAME": "per microliter",
+            "DOMAIN_ID": "Unit",
+            "STANDARD_CONCEPT_CAPTION": "Unknown",
+            "CONCEPT_CLASS_ID": null,
+            "INVALID_REASON": null
+          }
+        ]
+      }}
+    ],
+    "PrimaryCriteriaLimit": {"Type": "All"},
+    "ObservationWindow": {
+      "PostDays": 0,
+      "PriorDays": 0
+    }
+  }
+}
