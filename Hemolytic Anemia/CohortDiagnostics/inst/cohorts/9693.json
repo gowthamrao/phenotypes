@@ -1,0 +1,790 @@
+{
+  "ExpressionLimit": {"Type": "All"},
+  "CollapseSettings": {
+    "CollapseType": "ERA",
+    "EraPad": 0
+  },
+  "CensorWindow": {},
+  "ConceptSets": [
+    {
+      "expression": {"items": [
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4214409,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "414394009",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Hereditary red blood cell disorder",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 432868,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "80141007",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Hemoglobinopathy",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 37017165,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "713388002",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "GATA binding protein 1 related thrombocytopenia with dyserythropoiesis",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 434156,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "63565007",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Congenital anemia",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4125629,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "234401000",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Erythrocyte enzyme deficiency",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4217370,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "71988008",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Aase syndrome",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4159748,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "371104006",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Hand-foot syndrome in sickle cell anemia",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4122936,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "234409003",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Erythrocyte membrane abnormality",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4301410,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "403832004",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Inherited disorder of porphyrin metabolism",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4207240,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "323666000",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Anemia due to intrinsic red cell abnormality",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 36680584,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "778006008",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Autosomal dominant aplasia and myelodysplasia",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        }
+      ]},
+      "name": "Congenital or Genetic abnormality of red blood cell or anemia",
+      "id": 29
+    },
+    {
+      "expression": {"items": [
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 2617149,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "EB",
+            "VOCABULARY_ID": "HCPCS",
+            "CONCEPT_NAME": "Erythropoetic stimulating agent (esa) administered to treat anemia due to anti-cancer radiotherapy",
+            "DOMAIN_ID": "Observation",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "HCPCS Modifier",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 36716029,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "721840000",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Hyperuricemia, anemia, renal failure syndrome",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 2617148,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "EA",
+            "VOCABULARY_ID": "HCPCS",
+            "CONCEPT_NAME": "Erythropoetic stimulating agent (esa) administered to treat anemia due to anti-cancer chemotherapy",
+            "DOMAIN_ID": "Observation",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "HCPCS Modifier",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4029669,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "128846006",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Refractory anemia with sideroblasts",
+            "DOMAIN_ID": "Observation",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Morph Abnormality",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 35624756,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "767657005",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Anemia due to and following chemotherapy",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4028718,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "128847002",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Refractory anemia with excess blasts",
+            "DOMAIN_ID": "Observation",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Morph Abnormality",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 2617150,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "EC",
+            "VOCABULARY_ID": "HCPCS",
+            "CONCEPT_NAME": "Erythropoetic stimulating agent (esa) administered to treat anemia not due to anti-cancer radiotherapy or anti-cancer chemotherapy",
+            "DOMAIN_ID": "Observation",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "HCPCS Modifier",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 44831063,
+            "STANDARD_CONCEPT": "N",
+            "CONCEPT_CODE": "281.8",
+            "VOCABULARY_ID": "ICD9CM",
+            "CONCEPT_NAME": "Anemia associated with other specified nutritional deficiency",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+            "CONCEPT_CLASS_ID": "4-dig billing code",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4105643,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "193213003",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Myasthenic syndrome due to pernicious anemia",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 37398911,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "691401000119104",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Anemia in chronic kidney disease stage 4",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 438869,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "56921004",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Perinatal jaundice due to hereditary hemolytic anemia",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4183718,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "43742007",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Pericarditis associated with severe chronic anemia",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 37395652,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "691411000119101",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Anemia in chronic kidney disease stage 5",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4125630,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "234402007",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Chronic non-spherocytic hemolytic anemia",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4217370,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "71988008",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Aase syndrome",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4267432,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "62574001",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Erythropenia",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 36680584,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "778006008",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Autosomal dominant aplasia and myelodysplasia",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 37018722,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "713496008",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Anemia caused by zidovudine",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4295183,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "38589006",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Mixed hemoglobin disorder",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4028717,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "128845005",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Refractory anemia",
+            "DOMAIN_ID": "Observation",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Morph Abnormality",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 44783626,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "697908003",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Pulmonary arterial hypertension associated with chronic hemolytic anemia",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4051681,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "124961001",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Reticulocytopenia",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 37017132,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "713349004",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Anemia co-occurrent with human immunodeficiency virus infection",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4029670,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "128848007",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Refractory anemia with excess blasts in transformation",
+            "DOMAIN_ID": "Observation",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Morph Abnormality",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4006467,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "111570005",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Anemia due to infection",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 40478891,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "444271000",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Erythropoietin resistance in anemia of chronic kidney disease",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 36715584,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "721302006",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Refractory anemia with ringed sideroblasts associated with marked thrombocytosis",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        }
+      ]},
+      "name": "Anemia or Reticulocytopenia",
+      "id": 30
+    },
+    {
+      "expression": {"items": [
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4133980,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "128086004",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Hemolytic disorder",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4133151,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "127403002",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Red blood cell destruction finding",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        }
+      ]},
+      "name": "Hemolytic disorder",
+      "id": 31
+    }
+  ],
+  "cdmVersionRange": ">=5.0.0",
+  "CensoringCriteria": [],
+  "QualifiedLimit": {"Type": "First"},
+  "InclusionRules": [
+    {
+      "expression": {
+        "CriteriaList": [{
+          "RestrictVisit": false,
+          "StartWindow": {
+            "UseEventEnd": false,
+            "Start": {"Coeff": -1},
+            "End": {"Coeff": 1},
+            "UseIndexEnd": false
+          },
+          "IgnoreObservationPeriod": true,
+          "Criteria": {"ConditionOccurrence": {
+            "ConditionTypeExclude": false,
+            "CodesetId": 29
+          }},
+          "Occurrence": {
+            "Type": 2,
+            "IsDistinct": false,
+            "Count": 1
+          }
+        }],
+        "Type": "ALL",
+        "DemographicCriteriaList": [],
+        "Groups": []
+      },
+      "name": "Has Congenital or Genetic abnormality of red blood cell or anemia"
+    },
+    {
+      "expression": {
+        "CriteriaList": [{
+          "RestrictVisit": false,
+          "StartWindow": {
+            "UseEventEnd": false,
+            "Start": {
+              "Days": 0,
+              "Coeff": -1
+            },
+            "End": {
+              "Days": 30,
+              "Coeff": 1
+            },
+            "UseIndexEnd": false
+          },
+          "IgnoreObservationPeriod": false,
+          "Criteria": {"ConditionOccurrence": {
+            "ConditionTypeExclude": false,
+            "CodesetId": 31
+          }},
+          "Occurrence": {
+            "Type": 2,
+            "IsDistinct": false,
+            "Count": 1
+          }
+        }],
+        "Type": "ANY",
+        "DemographicCriteriaList": [],
+        "Groups": []
+      },
+      "name": "Hemolytic disorder within 30 days"
+    }
+  ],
+  "PrimaryCriteria": {
+    "CriteriaList": [
+      {"ConditionOccurrence": {
+        "ConditionTypeExclude": false,
+        "CodesetId": 29
+      }},
+      {"ConditionOccurrence": {
+        "ConditionTypeExclude": false,
+        "CodesetId": 30
+      }}
+    ],
+    "PrimaryCriteriaLimit": {"Type": "All"},
+    "ObservationWindow": {
+      "PostDays": 0,
+      "PriorDays": 0
+    }
+  }
+}

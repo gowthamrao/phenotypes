@@ -1,0 +1,10 @@
+atlasId,cohortId,id,cohortName
+6887,6887,6887,[ASSURE OD] Drug Rash with Eosinophilia and Systemic Symptoms (DRESS)
+8633,8633,8633,[ASSURE-OD] Stevens-Johnson syndrome or TEN (any visit)
+9966,9966,9966,[ASSURE OD] Erythema multiforme
+9964,9964,9964,[ASSURE OD] SCAR (Composite SJS+TEN+DRESS+AGEP)
+9965,9965,9965,[ASSURE OD] Acute generalized exanthematous pustulosis
+9967,9967,9967,[ASSURE-OD] Stevens-Johnson syndrome or TEN (inpatient or ER)
+9968,9968,9968,[ASSURE OD] SCAR (Composite SJS+TEN+DRESS+AGEP) (Inpatient or ER)
+9969,9969,9969,[ASSURE OD] Drug Rash with Eosinophilia and Systemic Symptoms (DRESS) (inpatient or ER)
+9963,9963,9963,[ASSURE OD] SCAR (Composite SJS+TEN+DRESS+EM+AGEP)
